@@ -1,0 +1,19 @@
+Return-Path: <masuo@kk-fuguta.co.jp>
+Received: from mail2.kk-apex.co.jp (mail2.kk-fuguta.co.jp [210.xxx.xxx.227])
+by sanma.xxxisono.co.jp (8.9.3/8.9.3)
+with SMTP id JAA07088 for <katsuo@xxxisono.co.jp>; Wed, 19 Mar 2003 09:13:09 +0900
+Received: from ws1.kk-fuguta.co.jp ([210.xxx.xxx.226])
+by mail2.kk-fuguta.co.jp (NAVGW 2.5.2.9)
+with SMTP id M2003031909322124520 for <katsuo@xxxisono.co.jp>; Wed, 19 Mar 2003 09:32:21 +0900
+Received: from pc01([192.xxx.xxx.55])
+by ws1.kk-fuguta.co.jp (8.11.6/3.7Wpl2)
+with ESMTP id h2J0Cw028698; Wed, 19 Mar 2003 09:12:58 +0900
+From: "Masuo Fuguta" <masuo@kk-fuguta.co.jp>
+To: "'Isono Katsuo'" <katsuo@xxxisono.co.jp>
+Subject: 明日の会議について
+Date: Wed, 19 Mar 2003 09:10:33 +0900
+Message-ID: <000501c2edab$f5be11a0$3701a8c0@ws1.kk-fuguta.co.jp>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 8bit
+$
