@@ -10,7 +10,7 @@ ARGV.each do |file|
     input.each_line do |line|
       l += 1
       c += line.size
-      line.sub!(/^\s*/, "")
+      line.sub!(/^\s*/, '')
       ary = line.split(/\s+/)
       w += ary.size
     end
@@ -26,4 +26,5 @@ ARGV.each do |file|
 
 end
 
-printf("%8d %8d %8d %s\n", ltotal, wtotal, ctotal, "total")
+printf("%8d %8d %8d %s\n", ltotal, wtotal, ctotal, 'total')
+

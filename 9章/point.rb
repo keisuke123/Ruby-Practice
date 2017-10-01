@@ -13,6 +13,10 @@ class Point
     self.class.new(x + other.x, y + other.y)
   end
 
+  def -(other)
+    self.class.new(x - other.x, y - other.y)
+  end
+
   def +@
     self.dup
   end
@@ -26,9 +30,6 @@ class Point
     self.class.new(-y, x)
   end
 
-  def -(other)
-    self.class.new(x - other.x, y - other.y)
-  end
 
   def [](index)
     case index
